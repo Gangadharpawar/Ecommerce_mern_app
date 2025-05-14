@@ -4,6 +4,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@auth0/auth0-react": "^2.3.0",
     "antd": "^5.24.7",
     "braintree-web-drop-in-react": "^1.2.1",
     "cra-template": "1.2.0",
